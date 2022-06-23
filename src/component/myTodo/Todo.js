@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { nanoid } from "react";
+import { nanoid } from 'nanoid'
 import AddTodo from "./AddTodo";
 import FilteredData from "./FilteredData";
 import TodoList from "./TodoList";
